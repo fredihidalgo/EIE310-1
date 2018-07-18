@@ -1,0 +1,1 @@
+function = fir1(N, Wn, 'ftype', window)
